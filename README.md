@@ -17,3 +17,4 @@ This is a low-level helper for [tendril][] that might be useful more generally.
 [WTF-8]: http://simonsapin.github.io/wtf-8/
 [tendril]: https://github.com/kmcallister/tendril
 foo
+foo
