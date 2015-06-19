@@ -18,3 +18,4 @@ This is a low-level helper for [tendril][] that might be useful more generally.
 [tendril]: https://github.com/kmcallister/tendril
 foo
 foo
+foo
